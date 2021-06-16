@@ -1,0 +1,1 @@
+opa run --server --config-file=opa-conf.yaml

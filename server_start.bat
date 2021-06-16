@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer DtwD4zyJKPWocFRaPvfmovvEkG_6vjhydTwn-rpwy2-ni8LYu6taBZjVf0RPXRYXiVvN6eC_-dGyYPuPDvUIQIKwC4gUg_c" -o opa-conf.yaml https://kaijser.svc.styra.com/v1/systems/f61d11753a8b4262a4333d715156392d/assets/opa-config

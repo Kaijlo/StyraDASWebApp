@@ -1,0 +1,18 @@
+discovery:
+  name: discovery
+  resource: /systems/f61d11753a8b4262a4333d715156392d/discovery
+  service: styra
+labels:
+  system-id: f61d11753a8b4262a4333d715156392d
+  system-type: custom
+services:
+- credentials:
+    bearer:
+      token: TTXov0oAApjqIGkLCybymvhwAWT_V_dhbS3JQ9pv97t4E7tlbQYdjglYFbwhvN4EsFv_zdnhCBbCkW8QxV_vwZCZ1A
+  name: styra
+  url: https://kaijser.svc.styra.com/v1
+- credentials:
+    bearer:
+      token: TTXov0oAApjqIGkLCybymvhwAWT_V_dhbS3JQ9pv97t4E7tlbQYdjglYFbwhvN4EsFv_zdnhCBbCkW8QxV_vwZCZ1A
+  name: styra-bundles
+  url: https://kaijser.svc.styra.com/v1/bundles
